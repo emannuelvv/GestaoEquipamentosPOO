@@ -1,0 +1,7 @@
+D:\AcademiaProgramador\GestaoEquipamentosPOO\GestaoEquipamentos.ConsoleApp\bin\Debug\GestaoEquipamentos.ConsoleApp.exe.config
+D:\AcademiaProgramador\GestaoEquipamentosPOO\GestaoEquipamentos.ConsoleApp\bin\Debug\GestaoEquipamentos.ConsoleApp.exe
+D:\AcademiaProgramador\GestaoEquipamentosPOO\GestaoEquipamentos.ConsoleApp\bin\Debug\GestaoEquipamentos.ConsoleApp.pdb
+D:\AcademiaProgramador\GestaoEquipamentosPOO\GestaoEquipamentos.ConsoleApp\obj\Debug\GestaoEquipamentos.ConsoleApp.csprojAssemblyReference.cache
+D:\AcademiaProgramador\GestaoEquipamentosPOO\GestaoEquipamentos.ConsoleApp\obj\Debug\GestaoEquipamentos.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\AcademiaProgramador\GestaoEquipamentosPOO\GestaoEquipamentos.ConsoleApp\obj\Debug\GestaoEquipamentos.ConsoleApp.exe
+D:\AcademiaProgramador\GestaoEquipamentosPOO\GestaoEquipamentos.ConsoleApp\obj\Debug\GestaoEquipamentos.ConsoleApp.pdb
